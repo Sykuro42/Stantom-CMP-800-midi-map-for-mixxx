@@ -6,4 +6,5 @@ It had some errors, but a quick ChatGPT prompt fixed the issue.
 
 Feel free to fix my project. I also realized I don’t need a jog wheel—it’s way too sensitive and reversed—so again, feel free to fix it.
 
+12.3.2026
 jog wheel works now as it should. credits to mixxx for the pre existing js file for the americanaudio radius 2000. sice both players are from the same supper oem and work fine together. the mapping itself is not the same tho.
